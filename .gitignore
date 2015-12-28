@@ -1,0 +1,17 @@
+.classpath
+.settings
+.project
+*.iml
+*.ipr
+*.iws
+*.ids
+.idea/
+tmp/
+eclipse/
+/lib/*
+modules/
+logs/
+conf/modulesOrder.conf
+test-result/
+hs_err_pid*
+precompiled
